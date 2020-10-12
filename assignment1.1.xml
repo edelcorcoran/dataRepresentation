@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<!-- Edel Corcoran g00010824@gmit.ie Data Representation Assignment 1.1: Library HML File-->
+
+<library>
+ 	<books category="technical">
+		<ISBN>9781118661468</ISBN>
+		<Title>SmartData</Title>
+		<Author>John W Foreman</Author>
+	</books>
+	<books category="technical">
+		<ISBN>9781617290923</ISBN>
+		<Title>Hello World</Title>
+		<Author>Warren and Carter Sande</Author>
+	</books>
+	<books category="cookery">
+		<ISBN>9781118661469</ISBN>
+		<Title>The Ultimate Guide To Cooking</Title>
+		<Author>Jamie Oliver</Author>
+	</books>
+	<books category="cookery">
+		<ISBN>9781118661500</ISBN>
+		<Title>Ultimate Cookery Course</Title>
+		<Author>Gordan Ramsey</Author>
+	</books>
+</library>
